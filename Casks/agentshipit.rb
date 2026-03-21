@@ -1,6 +1,6 @@
 cask "agentshipit" do
-  version "2.9.0"
-  sha256 "9f16450729bc36e5b85c80173e43bb1a85bcfad204ac9d1762bd13ce54abd763"
+  version "3.0.0"
+  sha256 "9a6cf4a66edd2c6c046549b8e985591ece29dfe3b63ba4ebb555f53ede82c1b5"
 
   url "https://github.com/Revoltfix/agentshipit/releases/download/v#{version}/AgentShipIt_#{version}_aarch64.dmg"
   name "AgentShipIt"
