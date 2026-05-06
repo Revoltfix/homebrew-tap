@@ -1,6 +1,6 @@
 cask "clarify" do
-  version "1.2.7"
-  sha256 "04336a4680b2426c4d28c4181c2b9fd686c4db49f2fac1f2db32c94b25a31c97"
+  version "1.3.0"
+  sha256 "304bd7bb9d273fc3de51ed1f730db97a2e3e7d3a9d9428955a1c485d84c827da"
 
   url "https://github.com/Revoltfix/clarify/releases/download/v#{version}/Clarifyer_#{version}_aarch64.dmg"
   name "Clarifyer"
